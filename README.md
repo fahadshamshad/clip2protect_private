@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://www.youtube.com/watch?v=CUSVyvM_-6o" target='_blank'>
-    <img src="https://img.shields.io/badge/Video-Presentation-F9D371">
+    <img src="https://badges.aleen42.com/src/youtube.svg">
   </a>
 </p>
 

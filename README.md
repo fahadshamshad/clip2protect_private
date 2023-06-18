@@ -3,9 +3,9 @@
 
   # CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search [CVPR 2023]
   <p align="center">
-    <a href="https://github.com/youquanl"><strong> Fahad Shamshad</strong></a>,
-    <a href="https://ldkong.com"><strong> Muzammal Naseer</strong></a>,
-    <a href="http://cen-jun.com"><strong> Karthik Nandakumar</strong></a>
+    <a href="https://fahadshamshad.github.io"><strong> Fahad Shamshad</strong></a>,
+    <a href="https://muzammal-naseer.netlify.app/"><strong> Muzammal Naseer</strong></a>,
+    <a href="https://scholar.google.com/citations?user=2qx0RnEAAAAJ&hl=en"><strong> Karthik Nandakumar</strong></a>
     <br>
     <span style="font-size:4em; "><strong> MBZUAI, UAE</strong>.</span>
   </p>

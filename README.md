@@ -36,13 +36,6 @@
 </p>
 
 ## :bulb: Highlight of CLIP2Protect
-RAM is a strong image tagging model, which can recognize any common category with high accuracy.
-- **Strong and general.** RAM exhibits exceptional image tagging capabilities with powerful zero-shot generalization;
-    - RAM showcases impressive zero-shot performance, significantly outperforming CLIP and BLIP.
-    - RAM even surpasses the fully supervised manners (ML-Decoder).
-    - RAM exhibits competitive performance with the Google tagging API.
-- **Reproducible and affordable.** RAM requires Low reproduction cost with open-source and annotation-free dataset;
-- **Flexible and versatile.** RAM offers remarkable flexibility, catering to various application scenarios.
 
 
 
@@ -50,16 +43,6 @@ RAM is a strong image tagging model, which can recognize any common category wit
 
 # CLIP2Protect:shield: [CVPR 2023]
 
-# CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search [CVPR 2023]
-
-> [**CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search**](https://openaccess.thecvf.com/content/CVPR2023/papers/Shamshad_CLIP2Protect_Protecting_Facial_Privacy_Using_Text-Guided_Makeup_via_Adversarial_Latent_CVPR_2023_paper.pdf)<br>
-> [Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Muzammal Naseer](https://scholar.google.ch/citations?user=tM9xKA8AAAAJ&hl=en), [Karthik Nandakumar](https://scholar.google.ch/citations?hl=en&user=2qx0RnEAAAAJ)
-
-
-[![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://muzairkhattak.github.io/multimodal-prompt-learning/)
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.03117)
-[![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://youtu.be/fmULeaqAzfg)
-[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://drive.google.com/file/d/1GYei-3wjf4OgBVKi9tAzeif606sHBlIA/view?usp=share_link)
 
 If you're using CLIP2Protect in your research or applications, please cite using this BibTeX:
 ```bibtex

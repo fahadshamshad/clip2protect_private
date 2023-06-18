@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_logo.jpg" align="center" width="44%">
+  <img src="github_logo.jpg" align="center" width="60%">
 
   <h3 align="center"><strong>CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search [CVPR 2023]</strong></h3>
 

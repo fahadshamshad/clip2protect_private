@@ -1,7 +1,7 @@
 <p align="center">
   <img src="github_logo.jpg" align="center" width="60%">
 
-  <h3 align="center"><strong>CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search [CVPR 2023]</strong></h3>
+  <h1 align="center"><strong>CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search [CVPR 2023]</strong></h1>
 
   <p align="center">
     <a href="https://fahadshamshad.github.io"><strong> Fahad Shamshad</strong></a>,

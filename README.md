@@ -11,10 +11,12 @@
   </p>
 </p>
 
+### ------------------------------- [Project Page](https://dreamsim-nights.github.io/) | [Paper](https://arxiv.org/abs/2306.09344) | [Bibtex](#bibtex)
+
 <p align="center">
   <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Shamshad_CLIP2Protect_Protecting_Facial_Privacy_Using_Text-Guided_Makeup_via_Adversarial_Latent_CVPR_2023_paper.html" target='_blank'>
     <img src="https://img.shields.io/badge/CVPR-Paper-blue.svg">
-  </a>
+  </a> 
   
   <a href="https://fahadshamshad.github.io/clip2protect/" target='_blank'>
     <img src=https://img.shields.io/badge/Project-Website-87CEEB">

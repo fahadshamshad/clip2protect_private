@@ -1,7 +1,8 @@
 <p align="center">
   <img src="github_logo.jpg" align="center" width="44%">
 
-  # CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search [CVPR 2023]
+  <h3 align="center"><strong>CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search [CVPR 2023]</strong></h3>
+
   <p align="center">
     <a href="https://fahadshamshad.github.io"><strong> Fahad Shamshad</strong></a>,
     <a href="https://muzammal-naseer.netlify.app/"><strong> Muzammal Naseer</strong></a>,
@@ -11,7 +12,6 @@
   </p>
 </p>
 
-### ------------------------------- [Project Page](https://dreamsim-nights.github.io/) | [Paper](https://arxiv.org/abs/2306.09344) | [Bibtex](#bibtex)
 
 <p align="center">
   <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Shamshad_CLIP2Protect_Protecting_Facial_Privacy_Using_Text-Guided_Makeup_via_Adversarial_Latent_CVPR_2023_paper.html" target='_blank'>
@@ -45,6 +45,8 @@ RAM is a strong image tagging model, which can recognize any common category wit
 
 
 # CLIP2Protect:shield: [CVPR 2023]
+
+# CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search [CVPR 2023]
 
 > [**CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search**](https://openaccess.thecvf.com/content/CVPR2023/papers/Shamshad_CLIP2Protect_Protecting_Facial_Privacy_Using_Text-Guided_Makeup_via_Adversarial_Latent_CVPR_2023_paper.pdf)<br>
 > [Fahad Shamshad](https://scholar.google.com.pk/citations?user=d7QL4wkAAAAJ&hl=en), [Muzammal Naseer](https://scholar.google.ch/citations?user=tM9xKA8AAAAJ&hl=en), [Karthik Nandakumar](https://scholar.google.ch/citations?hl=en&user=2qx0RnEAAAAJ)

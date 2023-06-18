@@ -61,3 +61,14 @@ RAM is a strong image tagging model, which can recognize any common category wit
 [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://youtu.be/fmULeaqAzfg)
 [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://drive.google.com/file/d/1GYei-3wjf4OgBVKi9tAzeif606sHBlIA/view?usp=share_link)
 
+If you're using CLIP2Protect in your research or applications, please cite using this BibTeX:
+```bibtex
+@inproceedings{shamshad2023clip2protect,
+  title={CLIP2Protect: Protecting Facial Privacy Using Text-Guided Makeup via Adversarial Latent Search},
+  author={Shamshad, Fahad and Naseer, Muzammal and Nandakumar, Karthik},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={20595--20605},
+  year={2023}
+  }
+```
+

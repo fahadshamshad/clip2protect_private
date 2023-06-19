@@ -69,6 +69,8 @@
   <img src="docs/static/images/pipeline_color.jpg" align="center" width="95%">
 </p>
 
+[![Watch the video][(https://img.youtube.com/vi/CUSVyvM_-6o/default.jpg)](https://youtu.be/CUSVyvM_-6o)
+
 
 If you're using CLIP2Protect in your research or applications, please cite using this BibTeX:
 ```bibtex

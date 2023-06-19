@@ -42,11 +42,6 @@
 
 
 
-
-
-# CLIP2Protect:shield: [CVPR 2023]
-
-
 If you're using CLIP2Protect in your research or applications, please cite using this BibTeX:
 ```bibtex
 @inproceedings{shamshad2023clip2protect,

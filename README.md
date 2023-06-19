@@ -39,9 +39,9 @@
 ### We all love sharing photos online, but do you know big companies and even governments can use sneaky 🕵️‍♂️ face recognition software to track us? Our research takes this challenge head-on with a simple and creative idea 🌟: using carefully crafted makeup 💄 to outsmart the tracking software. The cherry on top? We're using everyday, easy-to-understand language 🗣️ to guide the makeup application, giving users much more flexibility! Our approach keeps your photos safe 🛡️ from unwanted trackers without making you look weird or having bizarre patches on your face, issues commonly seen with previous solutions.
 
 ## Motivation :muscle: :fire: 
-- Malicious black-box Face recognition systems pose a **serious threat to personal security/privacy in digital world**.
-- Governmental and private entities can use FR systems to **track user activities** by scraping face images from social media platforms.
-- With **billions of people** using social media, there is an urgent demand for effective privacy preservation methods.
+- Malicious black-box Face recognition systems pose a serious threat to personal security/privacy of **5 billions people** using social media.
+- Unauthorized entities can use FR systems to **track user activities** by scraping face images from social media platforms.
+- There is an urgent demand for effective privacy preservation methods.
 
 ## Limitation of existing works :warning: 
  - Recent noise-constrained adversarial attacks to conceal user identity results in artefacts. 

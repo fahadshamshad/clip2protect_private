@@ -28,7 +28,9 @@
 </p>
 
 
-![](github_gifcode.gif)
+<p align="center">
+  <img src="github_gifcode.gif" align="center" width="100%">
+  <img src="imgs/extra.gif" align="center" width="100%">
 
 
 ##  Updates :loudspeaker:

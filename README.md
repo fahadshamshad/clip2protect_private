@@ -47,9 +47,8 @@
   <img src="imgs/motivationslides.jpg" align="center" width="100%">
 
 ## Limitation of existing works :warning: 
- - Recent noise-constrained adversarial attacks to conceal user identity results in artefacts. 
+ - Recent noise-based facial privacy protection approaches result in artefacts. 
  - Patch-based privacy approaches provide low privacy protection and their large visible pattern compromises naturalness.
- - The closely related AMT-GAN (CVPR 2022) needs a reference image for makeup style definition, which could affect practicality.
 
 <p align="center">
   <img src="imgs/limitations.jpg" align="center" width="85%">
@@ -59,7 +58,7 @@
 
 ## Pipeline
 
-**CLIP2Protect** comprises two stages. 
+**CLIP2Protect** generates face images that look natural and real. **But here's the special part**: it also ensures a high level of privacy protection. This means you can keep sharing images without worrying about unwanted tracking. It consists of two stages. 
 - **The latent code initialization stage** reconstructs the given face image in the latent space by fine-tuning the generative model.
 - **The text-guided adversarial optimization stage** utilizes user-defined makeup text prompts and identity-preserving regularization to guide the search for adversarial codes within the latent space to effectively protect the facial privacy.
 

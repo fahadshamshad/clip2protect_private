@@ -30,6 +30,7 @@
 
 <p align="center">
   <img src="github_gifcode.gif" align="center" width="100%">
+</p>
   <img src="imgs/extra.gif" align="center" width="100%">
 
 

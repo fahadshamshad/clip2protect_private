@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github_logo.jpg" align="center" width="60%">
+  <img src="imgs/github_logo.jpg" align="center" width="60%">
 
   <h2 align="center"><strong>CLIP2Protect: Protecting Facial Privacy using Text-Guided Makeup via Adversarial Latent Search [CVPR 2023]</strong></h2>
 
@@ -26,6 +26,9 @@
     <img src="https://badges.aleen42.com/src/youtube.svg">
   </a>
 </p>
+
+
+![](github_gifcode.gif)
 
 
 

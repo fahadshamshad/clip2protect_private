@@ -43,7 +43,7 @@
 - Unauthorized entities can use FR systems to **track user activities** by scraping face images from social media platforms.
 - There is an urgent demand for effective privacy preservation methods.
 
-<video loop src="imgs/motivationslides.mp4">  video </video> 
+![](imgs/motionslides.mp4)
 
 ## Limitation of existing works :warning: 
  - Recent noise-constrained adversarial attacks to conceal user identity results in artefacts. 

@@ -51,9 +51,11 @@
 - **Jun-19** : Code and demo release coming soon. Stay tuned!
 
 
+<a name="central-idea"></a>
 ## 🎯 Central Idea 🎯 
 ### We all love sharing photos online, but do you know big companies and even governments can use sneaky 🕵️‍♂️ face recognition software to track us? Our research takes this challenge head-on with a simple and creative idea 🌟: using carefully crafted makeup 💄 to outsmart the tracking software. The cherry on top? We're using everyday, easy-to-understand language 🗣️ to guide the makeup application, giving users much more flexibility! Our approach keeps your photos safe 🛡️ from unwanted trackers without making you look weird or having bizarre patches on your face, issues commonly seen with previous solutions.
 
+<a name="motivation-muscle-fire"></a>
 ## Motivation :muscle: :fire: 
 - Malicious black-box Face recognition systems pose a serious threat to personal security/privacy of **5 billions people** using social media.
 - Unauthorized entities can use FR systems to **track user activities** by scraping face images from social media platforms.
@@ -82,6 +84,7 @@
   <img src="docs/static/images/pipeline_color.jpg" align="center" width="95%">
 </p>
 
+<a name="instructions-for-code-usage"></a>
 ## Intructions for Code usage
 
 ### Setup

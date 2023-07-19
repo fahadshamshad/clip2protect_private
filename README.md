@@ -48,7 +48,8 @@
 
 
 ##  Updates :loudspeaker:
-- **Jun-19** : Code and demo release coming soon. Stay tuned!
+- **July-19** : Code released.
+- **June-19** : Code and demo release coming soon. Stay tuned!
 
 
 <a name="central-idea"></a>
@@ -104,15 +105,36 @@ conda activate clip2protect
 pip install -r requirements.txt
 ```
 
-Here, the code relies on the [Rosinality](https://github.com/rosinality/stylegan2-pytorch/) pytorch implementation of StyleGAN2.
+## Steps for Protecting Faces
 
-You can manually download the pre-trained StyleGAN2 weights from [here](https://drive.google.com/file/d/1EM87UquaoQmk17Q8d5kYIAHqu0dkYqdT/view?usp=sharing). Placed the weights in 'pretrained_models' folder.
+1. Our solution relies on the [Rosinality](https://github.com/rosinality/stylegan2-pytorch/) PyTorch implementation of StyleGAN2.
 
-Acquire the latent codes of the face images you want to protect using the encoder4editing (e4e) method available [here](https://github.com/omertov/encoder4editing).
+2. **Download the pre-trained StyleGAN2 weights**: 
+   - Download the pre-trained StyleGAN2 weights from [here](https://drive.google.com/file/d/1EM87UquaoQmk17Q8d5kYIAHqu0dkYqdT/view?usp=sharing).
+   - Place the weights in the 'pretrained_models' folder.
 
-The core functionality of the application is in `main.py`. The generator finetuning and adversarial optimization stages are encapsulated within `pivot_tuning.py` and `adversarial_optimization.py`, respectively.
+3. **Download pretrained face recognition models and dataset instructions**:
+   - To acquire pretrained face recognition models and dataset instructions, including target images, please refer to the AMT-GAN page [here](https://github.com/CGCL-codes/AMT-GAN).
+   - Place the pretrained face recognition model in the `models` folder.
 
-To download pretrained face recognition models and dataset instructions, including target images, please refer to AMT-GAN page [here](https://github.com/CGCL-codes/AMT-GAN). Place the pretrained face recognition model in `models` folder.
+4. **Acquire latent codes**:
+   - We assume the latent codes are available in the `latents.pt` file.
+   - You can acquire the latent codes of the face images to be protected using the encoder4editing (e4e) method available [here](https://github.com/omertov/encoder4editing).
+
+5. **Run the code**:
+   - The core functionality is in `main.py`.
+   - Provide the `latents.pt` file and the corresponding faces directory, named 'input_images'.
+   - Generate the protected faces in the 'results' folder by running the following command:
+     ```shell
+     python main.py --data_dir input_images --latent_path latents.pt --protected_face_dir results
+     ```
+
+6. **Generator finetuning and adversarial optimization stages**:
+   - The generator finetuning is implemented in `pivot_tuning.py`.
+   - The adversarial optimization is implemented in `adversarial_optimization.py`.
+
+
+
 
 
 ## Citation 

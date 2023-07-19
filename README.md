@@ -1,3 +1,14 @@
+# Table of Contents
+
+- [Updates](#updates-loudspeaker)
+- [Central Idea](#central-idea)
+- [Motivation](#motivation-muscle-fire)
+- [Limitation of existing works](#limitation-of-existing-works-warning)
+- [Pipeline](#pipeline)
+- [Instructions for Code usage](#instructions-for-code-usage)
+- [Citation](#citation)
+
+
 <p align="center">
   <img src="imgs/github_logo.jpg" align="center" width="60%">
 
@@ -29,9 +40,11 @@
 
 
 <p align="center">
-  <img src="github_gifcode.gif" align="center" width="100%">
+  <img src="imgs/github_gifcode.gif" align="center" width="100%">
 </p>
   <img src="imgs/extra.gif" align="center" width="100%">
+<p align="center">
+  <img src="imgs/github_anim.gif" align="center" width="60%">
 
 
 ##  Updates :loudspeaker:
@@ -80,7 +93,7 @@ git clone https://github.com/fahadshamshad/Clip2Protect.git
 
 - **Build environment**
 ```shell
-cd clip2protect
+cd Clip2Protect
 # use anaconda to build environment 
 conda create -n clip2protect python=3.8
 conda activate clip2protect
@@ -96,11 +109,11 @@ Acquire the latent codes of the face images you want to protect using the encode
 
 The core functionality of the application is in `main.py`. The generator finetuning and adversarial optimization stages are encapsulated within `pivot_tuning.py` and `adversarial_optimization.py`, respectively.
 
-To download pretrained face recognition models and dataset instructions, including target images, please refer to AMT-GAN page [here](https://github.com/CGCL-codes/AMT-GAN).
+To download pretrained face recognition models and dataset instructions, including target images, please refer to AMT-GAN page [here](https://github.com/CGCL-codes/AMT-GAN). Place the pretrained face recognition model in `models` folder.
 
 
+## Citation 
 
-## Cite
 If you're using CLIP2Protect in your research or applications, please cite using this BibTeX:
 ```bibtex
 @inproceedings{shamshad2023clip2protect,
@@ -110,5 +123,3 @@ If you're using CLIP2Protect in your research or applications, please cite using
   pages={20595--20605},
   year={2023}
   }
-```
-
